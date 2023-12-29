@@ -1,0 +1,88 @@
+﻿  main.cpp
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(10,8): error C3646: 'security': unknown override specifier
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(10,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(11,8): error C3646: 'process_id': unknown override specifier
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(11,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(12,12): error C3646: 'address': unknown override specifier
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(12,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(13,12): error C3646: 'buffer': unknown override specifier
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(13,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(14,12): error C3646: 'size': unknown override specifier
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(14,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(15,10): error C3646: 'write': unknown override specifier
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(15,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(19,8): error C3646: 'security': unknown override specifier
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(19,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(20,8): error C3646: 'process_id': unknown override specifier
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(20,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(21,11): error C2143: syntax error: missing ';' before '*'
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(21,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(21,20): error C2238: unexpected token(s) preceding ';'
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(25,8): error C3646: 'security': unknown override specifier
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(25,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(26,11): error C2143: syntax error: missing ';' before '*'
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(26,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(26,20): error C2238: unexpected token(s) preceding ';'
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(30,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(30,9): error C2146: syntax error: missing ';' before identifier 'driver_handle'
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(31,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(31,8): error C2146: syntax error: missing ';' before identifier 'process_id'
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(34,3): error C2065: 'driver_handle': undeclared identifier
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(34,31): warning C4129: 'M': unrecognized character escape sequence
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(34,59): error C2065: 'GENERIC_READ': undeclared identifier
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(34,74): error C2065: 'GENERIC_WRITE': undeclared identifier
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(34,89): error C2065: 'FILE_SHARE_READ': undeclared identifier
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(34,107): error C2065: 'FILE_SHARE_WRITE': undeclared identifier
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(34,131): error C2065: 'OPEN_EXISTING': undeclared identifier
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(34,19): error C3861: 'CreateFileW': identifier not found
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(36,8): error C2065: 'driver_handle': undeclared identifier
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(36,26): error C2065: 'driver_handle': undeclared identifier
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(36,43): error C2065: 'INVALID_HANDLE_VALUE': undeclared identifier
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(42,7): error C2182: 'read_physical': this use of 'void' is not valid
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(42,21): error C2065: 'PVOID': undeclared identifier
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(42,27): error C2146: syntax error: missing ')' before identifier 'address'
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(42,62): error C2143: syntax error: missing ';' before '{'
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(42,62): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(55,7): error C2182: 'write_physical': this use of 'void' is not valid
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(55,22): error C2065: 'PVOID': undeclared identifier
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(55,28): error C2146: syntax error: missing ')' before identifier 'address'
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(55,63): error C2143: syntax error: missing ';' before '{'
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(55,63): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(70,21): error C2078: too many initializers
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(72,13): error C2039: 'security': is not a member of '_ba'
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(18,16): message : see declaration of '_ba'
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(73,13): error C2039: 'process_id': is not a member of '_ba'
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(18,16): message : see declaration of '_ba'
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(73,26): error C2065: 'process_id': undeclared identifier
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(74,13): error C2039: 'address': is not a member of '_ba'
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(18,16): message : see declaration of '_ba'
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(74,24): error C2065: 'ULONGLONG': undeclared identifier
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(74,34): error C2059: syntax error: ')'
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(76,19): error C2065: 'driver_handle': undeclared identifier
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(76,34): error C2065: 'FILE_DEVICE_UNKNOWN': undeclared identifier
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(76,34): error C2065: 'METHOD_BUFFERED': undeclared identifier
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(76,34): error C2065: 'FILE_SPECIAL_ACCESS': undeclared identifier
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(76,34): error C3861: 'CTL_CODE': identifier not found
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(76,3): error C3861: 'DeviceIoControl': identifier not found
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(81,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(81,2): error C2086: 'int mem::INT32': redefinition
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(31,2): message : see declaration of 'mem::INT32'
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(81,8): error C2146: syntax error: missing ';' before identifier 'find_process'
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(81,43): error C2143: syntax error: missing ';' before '{'
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(81,43): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(103,22): error C2065: 'PVOID': undeclared identifier
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(103,28): error C2760: syntax error: 'address' was unexpected here; expected ')'
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(103,35): error C2760: syntax error: ',' was unexpected here; expected ';'
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(103,35): error C3878: syntax error: unexpected token ',' following 'expression_statement'
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(103,35): message : error recovery skipped: ','
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(103,55): error C2760: syntax error: ')' was unexpected here; expected ';'
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(103,55): error C3878: syntax error: unexpected token ')' following 'expression_statement'
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(103,55): message : error recovery skipped: ')'
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(111,23): error C2065: 'PVOID': undeclared identifier
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(111,29): error C2760: syntax error: 'address' was unexpected here; expected ')'
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(111,36): error C2760: syntax error: ',' was unexpected here; expected ';'
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(111,36): error C3878: syntax error: unexpected token ',' following 'expression_statement'
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(111,36): message : error recovery skipped: ','
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(111,56): error C2760: syntax error: ')' was unexpected here; expected ';'
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(111,56): error C3878: syntax error: unexpected token ')' following 'expression_statement'
+C:\Users\attis\Desktop\SkarIoctl\SkarIoctl\SkarIoctl\Source\Kernal\Communications\driver.h(111,56): message : error recovery skipped: ')'
